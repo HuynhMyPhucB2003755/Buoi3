@@ -5,7 +5,7 @@ $hoten = array("Nguyen", "Thanh", "Hai");
 echo "Ho " . $hoten[0] . ", Chu lot: " . $hoten[1] . " va ten: " . $hoten[2] . ".";
 
 //tra ve so phan tu trong bang
-echo count($hoten);
+echo count($hoten); 
 
 //dung for de quet qua cac gia tri trong mang
 $arrlength = count($hoten);
